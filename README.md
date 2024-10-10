@@ -10,11 +10,10 @@ This Python script automates the typing of content from a text file, simulating 
 - Simple and easy-to-use automation tool.
 
 ## Demo GIF
-![ezgif-5-6aecab6812](https://github.com/user-attachments/assets/713c53da-7312-44ae-a7a5-4ad5d5967140)
 
-![Auto Typer Demo](https://github.com/RituRajKumarWork/Auto-Typer/blob/main/images/demo.gif)
+[![Auto Typer Demo](https://github.com/user-attachments/assets/713c53da-7312-44ae-a7a5-4ad5d5967140)](https://github.com/RituRajKumarWork/Auto-Typer/blob/main/Use.mp4)
 
-Click the image above to see the video demonstration.
+Click the GIF above to watch the full demonstration video..
 
 
 ## Use Case
