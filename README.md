@@ -9,18 +9,6 @@ This Python script automates the typing of content from a text file, simulating 
 - Capable of handling large blocks of text with minimal delay.
 - Simple and easy-to-use automation tool.
 
-# Auto-Typer
-
-This Python script automates the typing of content from a text file, simulating user input to bypass copy-pasting restrictions. It's particularly useful in environments where users are not allowed to copy-paste text, such as online exams, form filling, or restricted platforms.
-
-## Demo GIF
-
-![Auto Typer Demo](https://github.com/user-attachments/assets/713c53da-7312-44ae-a7a5-4ad5d5967140)
-
-Click the GIF above to watch the full demonstration video.
-
-
-
 ## Demo GIF
 ![ezgif-5-6aecab6812](https://github.com/user-attachments/assets/713c53da-7312-44ae-a7a5-4ad5d5967140)
 
