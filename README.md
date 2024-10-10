@@ -9,6 +9,13 @@ This Python script automates the typing of content from a text file, simulating 
 - Capable of handling large blocks of text with minimal delay.
 - Simple and easy-to-use automation tool.
 
+## Demo Video
+
+[![Auto Typer Demo](https://via.placeholder.com/150)](https://github.com/RituRajKumarWork/Auto-Typer/blob/main/Use.mp4)
+
+Click the image above to watch the demo video.
+
+
 ## Use Case
 The script is designed to address situations where copy-pasting is not allowed, but typing manually would be time-consuming. This can be applied to:
 - **Examination platforms** where students or users are restricted from pasting copied content.
