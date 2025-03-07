@@ -51,3 +51,8 @@ You can adjust the typing speed and the delay before typing starts by modifying 
 
 ```python
 type_text(content, start_delay=3, typing_speed=0.0001) 
+
+
+
+![image](https://github.com/user-attachments/assets/1030b54b-4dc9-44f1-b735-d43172c61afc)
+
